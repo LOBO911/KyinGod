@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/kyin-g/Qt/6.9.1/gcc_64/include",
+                "/home/kyin-g/Qt/6.9.1/gcc_64/include/QtWidgets",
+                "/home/kyin-g/Qt/6.9.1/gcc_64/include/QtCore",
+                "/home/kyin-g/Qt/6.9.1/gcc_64/include/QtGui"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}/**",
+                    "/home/kyin-g/Qt/6.9.1/gcc_64/include",
+                    "/home/kyin-g/Qt/6.9.1/gcc_64/include/QtWidgets",
+                    "/home/kyin-g/Qt/6.9.1/gcc_64/include/QtCore",
+                    "/home/kyin-g/Qt/6.9.1/gcc_64/include/QtGui"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
